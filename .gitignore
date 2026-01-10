@@ -87,3 +87,4 @@ hive-mind-prompt-*.txt
 # RuVector intelligence data
 .ruvector/
 .claude/statusline.sh
+.env
